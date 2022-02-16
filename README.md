@@ -3,8 +3,8 @@ Projeto final - Jogo de Ficção Interativa
 
 Blue Edtech
 
-Alunos: Alexandre Meirelles Nogueira Ribeiro
-Jefferson Silva
+Alunos: Alexandre Meirelles Nogueira Ribeiro, 
+Jefferson Silva, 
 Vitor Laureano
 
 
